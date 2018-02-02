@@ -4,7 +4,7 @@
 #
 Name     : fixesproto
 Version  : 5.0
-Release  : 10
+Release  : 11
 URL      : http://xorg.freedesktop.org/releases/individual/proto/fixesproto-5.0.tar.bz2
 Source0  : http://xorg.freedesktop.org/releases/individual/proto/fixesproto-5.0.tar.bz2
 Summary  : X Fixes extension headers
